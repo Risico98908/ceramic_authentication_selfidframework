@@ -1,5 +1,5 @@
-i.	download file and unzip to /dir
-	dir1 is the root directory
+i. download file and unzip to /dir
+dir1 is the root directory
 
 
 i. files in dir1
